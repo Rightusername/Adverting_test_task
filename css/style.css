@@ -58,8 +58,7 @@ input {
   outline: none;
 }
 .wrap {
-  width: 1170px;
-  min-width: 1170px;
+  max-width: 1170px;
   margin: 0 auto;
 }
 .slider {
@@ -74,6 +73,7 @@ header {
   align-items: center;
 }
 header .wrap {
+  width: 1170px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -402,8 +402,6 @@ header .call_btn a:hover {
   padding-top: 70px;
 }
 .contact form input[type='email'] {
-  height: 61px;
-  line-height: 46px;
   padding: 7.5px 0px 7.5px 40px;
   width: 510px;
   font-size: 18px;
