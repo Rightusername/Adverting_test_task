@@ -18,7 +18,7 @@
 }
 @font-face {
   font-family: 'MyriadPro-Regular';
-  src: url('../fonts/MyriadPro-Regular.otf'), url('../fonts/MyriadPro-Regular.ttf'), url('../fonts/MyriadPro-Regular.svg#MyriadPro-Regular');
+  src: url('../fonts/MyriadPro-Regular.eot'), url('../fonts/MyriadPro-Regular.woff'), url('../fonts/MyriadPro-Regular.otf') format("truetype"), url('../fonts/MyriadPro-Regular.ttf'), url('../fonts/MyriadPro-Regular.svg#MyriadPro-Regular');
   font-weight: normal;
   font-style: normal;
 }
