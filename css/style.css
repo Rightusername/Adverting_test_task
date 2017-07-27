@@ -198,10 +198,15 @@ header .call_btn a:hover {
 .blurbs {
   background: #000;
   min-height: 510px;
-  padding: 50px 0;
+  padding: 50px 0px;
+}
+.blurbs ul {
+  padding: 0;
+  margin: 0 auto;
 }
 .blurbs ul li {
   text-align: center;
+  padding: 0;
   padding-top: 73px;
 }
 .blurbs ul li h1 {
@@ -248,6 +253,7 @@ header .call_btn a:hover {
 .why_us ul li {
   text-align: left;
   padding-top: 60px;
+  margin-left: -20px;
 }
 .why_us ul li .col-md-3 {
   text-align: center;
@@ -265,6 +271,7 @@ header .call_btn a:hover {
   text-align: left;
   font-weight: bold;
   padding-top: 0;
+  white-space: nowrap;
 }
 .why_us ul li p {
   white-space: nowrap;
