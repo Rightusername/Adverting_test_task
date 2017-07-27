@@ -402,6 +402,8 @@ header .call_btn a:hover {
   padding-top: 70px;
 }
 .contact form input[type='email'] {
+  height: 61px;
+  line-height: 46px;
   padding: 7.5px 0px 7.5px 40px;
   width: 510px;
   font-size: 18px;
